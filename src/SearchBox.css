@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+.SearchBox{
+    text-align: center;
+  justify-content: center;
+  position: relative;
+  left: 780px;
+  bottom: 50px;
+}
+h3{
+    color: black;
+}
